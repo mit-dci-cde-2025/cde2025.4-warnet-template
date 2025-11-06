@@ -1,6 +1,8 @@
 # cde2025.4-warnet
 Assignment 4 of the Cryptocurrency Design and Engineering course will involve a variation of the [Bitcoin Dev Project’s](https://bitcoindevs.xyz) [Warnet](https://github.com/bitcoin-dev-project/warnet) project. This project simulates a Bitcoin network that allows users to test and study the network’s functionality. In this assignment, you will utilize this simulated network and the Python-based Bitcoin test framework to develop attacks against the network. The culmination of this assignment will be a 48-hour live competition against your fellow students.
 
+By leveraging the simulated network in this assignment, you will acquire a comprehensive understanding of the Bitcoin testing framework and gain insights into the intercommunication of the network’s various components. Furthermore, you will conduct extensive research to identify and exploit vulnerabilities within the Bitcoin network, thereby enhancing your understanding of cybersecurity and blockchain technology.
+
 # Warnet
 The specific scenario that you will be competing in is called [The Battle of Galen Erso](https://github.com/bitcoin-dev-project/battle-of-galen-erso)
  
